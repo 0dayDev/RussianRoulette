@@ -1,4 +1,4 @@
-# Author : chloeSecurity
+# Author : 0day
 # Date   : 08/25/21
 
 import os, random
